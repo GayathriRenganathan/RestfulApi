@@ -1,0 +1,5 @@
+test\rest\apps\restfulapi\ApplicationRoot.class
+test\rest\apps\service\profileService.class
+test\rest\apps\controller\ProfileController.class
+test\rest\apps\database\DatabaseClass.class
+test\rest\apps\model\Profile.class
